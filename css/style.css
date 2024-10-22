@@ -19,7 +19,8 @@ body{
 }
 
 .left-img-col img{
-    height:500px;
+    object-fit: fill;
+    height:504px;
     width:auto;
     object-fit: fill;
 }
